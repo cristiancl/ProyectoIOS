@@ -1,0 +1,6 @@
+target 'Whatssenger' do
+use_frameworks!
+pod 'SQLite.swift', '~> 0.10'
+pod 'SwiftyJSON', '~> 2.3'
+pod 'Alamofire', '~> 3.4'
+end
